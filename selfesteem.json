@@ -1,0 +1,219 @@
+[
+ {
+   "title": "Do you think you are able to do things as well as most other people?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ },
+ {
+   "title": "Do you feel that you have little to be proud of?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you often think of yourself as a failure?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you suffer from feelings of inferiority?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "In general are you pretty sure of yourself?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ },
+ {
+   "title": "Do you often wish you were someone else?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Would you be troubled by feelings of inadequacy if you had to make a speech?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Are there a lot of things about yourself that you would change if you had the choice?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you think that, in general, you are quite popular with people?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ },
+ {
+   "title": "Do you have plenty of confidence in your decisions?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ },
+ {
+   "title": "Would you say that you have a favorable opinion of yourself?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ },
+ {
+   "title": "Do you feel ashamed of things you have done?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you feel embarrassed when looking at photos of yourself and feel that they don't do you justice?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Are there some members of your family who make you feel you are not good enough?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you get very upset if someone criticizes you?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do people regard you as useful to have around?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ },
+ {
+   "title": "Do you feel unattractive?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "When people say nice things about you, do you find it difficult to believe they are sincere?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you sometimes withhold your opinions for fear that people will laugh at you?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Are you shy and self-conscious in social situations?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you have a tendency to feel somehow inadequate compared to the people you meet?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you usually feel you can accomplish the things you want to?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ },
+ {
+   "title": "Are you satisfied with your appearance?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ },
+ {
+   "title": "Do you avoid the company of strangers because you suspect they will not like you?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you find it difficult to do things in a way that others approve of?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you pretend to be a better person than you really are?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you sometimes feel you can never do anything right?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you have doubts about your sexual capability?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "No"
+ },
+ {
+   "title": "Do you like yourself a lot?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ },
+ {
+   "title": "Do you think your personality is attractive to the opposite sex?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ },
+ {
+   "title": "Would you say that you have a wide range of abilities?",
+   "answer_1": "Yes",
+   "answer_2": "Maybe",
+   "answer_3": "No",
+   "right_answer": "Yes"
+ }
+]

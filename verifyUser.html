@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="form_style.css?v=1">
+    <link rel="icon" type="image/png" href="logo.png">
+	<title>WELCOME</title> 
+
+<meta charset="UTF-8">
+<meta name="viewport" content ="width=1000,user-scalable=yes" />
+</head>
+
+<script>
+if ( window.history.replaceState ) {
+  window.history.replaceState( null, null, window.location.href );
+}
+ function checkPassword(){
+   if(document.getElementById('password').value == 'cegeq123'){
+    location.href="index.html";
+    } else {
+     alert('Wrong Password!');
+      return false;
+    }
+}
+</script>
+<body style="background-image:url('bg.jpg'); ">
+<div class="formDesign" >
+<p>Please enter the code provided, to enter the website<br>
+    Welcome to the EQ group</p>
+  <form method="POST" class="form1" onsubmit=" return false;" autocomplete="off";>
+	<label for="passcode">Enter your passcode<em>&#x2a;</em></label>
+	<input id="password" name="password" required="" type="text" />
+    <button type="submit" id="submit" onclick="checkPassword()">Enter</button>
+  </form>
+
+  <div id="wrong"></div>
+</div>
+</body>
+
+</html>
