@@ -23,20 +23,20 @@
 <title>EQ CLUB</title>
 <meta content="" name="description">
 <meta content="" name="keywords">
-<link href="/asset/favicon.png" rel="icon">
-<link href="/asset/favicon.png" rel="apple-touch-icon">
+<link href="../asset/favicon.png" rel="icon">
+<link href="../asset/favicon.png" rel="apple-touch-icon">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Lato:400,300,700,900" rel="stylesheet">
 <link href="http://fonts.cdnfonts.com/css/blackboard" rel="stylesheet">
 <!-- Vendor CSS Files -->
-<link href="Amoeba/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="Amoeba/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-<link href="Amoeba/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-<link href="Amoeba/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+<link href="../Amoeba/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="../Amoeba/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+<link href="../Amoeba/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+<link href="../Amoeba/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- Template Main CSS File -->
-<link rel="stylesheet" type="text/css" href="css/style.css?v=11">
+<link rel="stylesheet" type="text/css" href="../css/style.css?v=11">
 <!--<meta name="viewport" content ="width=1000,user-scalable=yes" />-->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -174,9 +174,9 @@ response.setHeader("Expires", "0"); %>
 	<h1 id="gi" class="header" style="color:#2A265F;margin-top:30px;font-weight:600;"  >Student Corner</h1>    
 </div>
 <div class="container" >
-<div class="row" >
+<div class="row" style="padding: 1em;">
 <div class="cont">
-<div  class="container1" style="top:130%;left:5%">
+<div class="container1" style="top:130%;left:5%">
 <div class="forky">
 <div class="face"></div>
 <div class="ear1"></div>
@@ -300,7 +300,7 @@ response.setHeader("Expires", "0"); %>
 		</div>
 	</div>
 	<div class="course-preview">
-		<img src="/asset/gi4.png" style="height:200px;">
+		<img src="../asset/gi4.png" style="height:200px;">
 	</div>
 </div>
 </div>
@@ -309,7 +309,7 @@ response.setHeader("Expires", "0"); %>
 <div id="sai" class="courses-container" >
 <div class="course">
 	<div class="course-preview" style="padding-left:20px;">
-		<img src="/asset/gi1.png" style="height:200px;">
+		<img src="../asset/gi1.png" style="height:200px;">
 	</div>
 	
 	<div class="course-info">
@@ -361,7 +361,7 @@ response.setHeader("Expires", "0"); %>
 		</div>
 	</div>
 	<div class="course-preview" style="padding-left:0px;">
-		<img src="/asset/gi5.png" style="height:200px;">
+		<img src="../asset/gi5.png" style="height:200px;">
 	</div>
 
 </div>
@@ -376,7 +376,7 @@ response.setHeader("Expires", "0"); %>
 <div class="row">
 
 <div class="col-md-6" >
-                <img src="/asset/bg1.gif" style="height:250px;width:500px;border: 5px solid #2A265F;">
+                <img src="../asset/bg1.gif" style="height:250px;width:500px;border: 5px solid #2A265F;">
             
             
                        
@@ -402,9 +402,9 @@ response.setHeader("Expires", "0"); %>
 
 	<div class="card" style="top:55%;left:30%">
             <div class="imgBx">
-                <img src="/asset/au4.png">
+                <img src="../asset/au4.png">
             </div>
-            <div class="details">
+            <div class="details" style="padding: 2em;">
                 <h2>What we do?</h2>
                 <p><i>Give platform to find the perfect solution to any problem of the student by connecting the student with the appropriate mentor to guide them. This is achieved by utilizing our vast alumni network.✨
 
@@ -419,9 +419,9 @@ The most important part is *We listen*.♥️</i></p>
 
         <div class="card" style=" top:55%;left:40%">
 				<div class="imgBx">
-                <img src="/asset/au4.png">
+                <img src="../asset/au4.png">
             </div>
-            <div class="details">
+            <div class="details" style="padding: 2em;">
                 <h2>How will you be benefited?</h2>
                 <p><i>It will be boring and tiresome to receive advice on mental well being and it will sound too philosophical for us sometimes. But we shall gain wisdom and improve our quality of life if we heal ourselves and reassess ourselves when we feel low. So what are the ways we could understand ourselves? How shall we gain insights into our mental well being, not going deeper into the philosophical and psychological aspects? 
 We have provided some activities and game based tests that could help you.</i></p>
@@ -548,13 +548,13 @@ The most important part is *We listen*.♥️ </i>
     </div>
 	
 </footer>
-<script src="Amoeba/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="Amoeba/assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="Amoeba/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="Amoeba/assets/vendor/php-email-form/validate.js"></script>
-  <script src="Amoeba/assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="../Amoeba/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../Amoeba/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="../Amoeba/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="../Amoeba/assets/vendor/php-email-form/validate.js"></script>
+  <script src="../Amoeba/assets/vendor/swiper/swiper-bundle.min.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="Amoeba/assets/js/main.js"></script>
+  <script src="../Amoeba/assets/js/main.js"></script>
 </body>	
 </html>
