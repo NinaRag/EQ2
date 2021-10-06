@@ -23,8 +23,8 @@
 <title>EQ CLUB</title>
 <meta content="" name="description">
 <meta content="" name="keywords">
-<link href="../asset/favicon.png" rel="icon">
-<link href="../asset/favicon.png" rel="apple-touch-icon">
+<link href="../asset/eqlogo.png" rel="icon">
+<link href="../asset/eqlogo.png" rel="apple-touch-icon">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Lato:400,300,700,900" rel="stylesheet">
 <link href="http://fonts.cdnfonts.com/css/blackboard" rel="stylesheet">
 <!-- Vendor CSS Files -->
